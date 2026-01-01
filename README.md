@@ -1,2 +1,4 @@
 # Tugas-Akhir_Syifa-Firnanda
-Tugas Akhir 
+
+# Data Science Undergraduate Final Project
+Air pollution is an environmental problem that can threaten public health, including in Bandar Lampung City, which is experiencing increasing emissions due to the high number of vehicles and industrial activities. This study aims to develop a prediction model for PM10, PM2.5, CO, NO2, SO2, and O3 parameters in µg/m3 units, as well as the Air Pollutant Standard Index (ISPU) value to predict air quality conditions in Bandar Lampung City throughout 2024. Evaluation was carried out using RMSE to assess the prediction performance on training, validation, and testing data. The results show that the GRU 9 Model (lookback 24, batch size 32, and learning rate 0.001) at the 68th early stop epoch produced the best performance with a validation RMSE of 31.836 and a test RMSE of 37.193. This model is able to predict data patterns and shows good generalization ability to new data.
